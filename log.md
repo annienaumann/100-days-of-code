@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+
+### Day 2: 29 May 2017 
+
+**Today's Progress**: Started some challenges on FreeCodeCamp's 'Responsive Design with Bootstrap' section. Frustration set in at some point, but once I googled the solution it was fine. The HTML/CSS languages are starting to make sense in my head now. Bedtime reading of Coding for Dummies - to understand how software/coding development plays a huge part in todays society.
+
+**Thoughts:** I'm really enjoying learning how to code and watching things be developed in front of my eyes. Can't wait to continue.
+
+**Link to work:** Last challenge I completed, got me a little stumped I must admit, as I didnt know where to put "form-control" - in the end it was so obvious! [FreeCodeCamp](https://www.freecodecamp.com/challenges/style-text-inputs-as-form-controls)
+
+
 ### Day 1: 28 May 2017 
 
 **Today's Progress**: Completed 34 Items in FCC's Front End Developer Curriculum - mainly focusing on HTML, CSS basics. Read the 1st chapter of 'Coding for Dummies'. Connected with the #100daysofcode crew on twitter.
@@ -7,6 +17,8 @@
 **Thoughts:** I didnt feel motivated today however I perservered and really enjoyed the coding practice today. Learning to build the Catphotoap was very cool to see it done in real time. 
 
 **Link to work:** Last challenge I completed [FreeCodeCamp](https://www.freecodecamp.com/challenges/use-rgb-to-mix-colors)
+
+
 
 <!--### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
