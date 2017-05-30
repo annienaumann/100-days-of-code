@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 3: 30 May 2017 
+
+**Today's Progress**: Finished 'Responsive Design with Bootstrap' section in Freecodecamp - started to get challenged to remember things which was good and surprisingly most of it had stuck! jQuery up next - can't wait!
+
+**Thoughts:** I'm starting to retain some of this info - I'm getting better!
+
+**Link to work:** n/a
 
 ### Day 2: 29 May 2017 
 
