@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 4: 31 May 2017 
+
+**Today's Progress**: Ending May with alot of reading - in both Getting a Coding Job for Dummies and Coding for Dummies. Also Completed 3 hours of jQuery on freecodecamp. 
+
+**Thoughts:** Started looking at and visualising remote working I would hope to be doing one day as a full qualified coder. Getting really motivated for this next chapter in my life.
+
+**Link to work:** Start of jQuery module: [Freecodecamp] (https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work)
+
+
 ### Day 3: 30 May 2017 
 
 **Today's Progress**: Finished 'Responsive Design with Bootstrap' section in Freecodecamp - started to get challenged to remember things which was good and surprisingly most of it had stuck! jQuery up next - can't wait!
