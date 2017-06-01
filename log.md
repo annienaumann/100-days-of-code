@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 5: 1 June 2017 
+
+**Today's Progress**: Started my first FreeCodeCamp project - building a HTML tribute page for Nelson Mandela. A really good way to test what I have learnt - it's amazing how you can be trying to think of what you should and the answer comes back into your head. 
+
+**Thoughts:** Probably want to go back and look at Bootstrap again to see what I need to be doing to make the webpage seem how it should. But its all about trial and error and I'm loving it!
+
+**Link to work:** Nelson Mandela Tribute Page [CodePen] (https://codepen.io/anaumann/pen/eROyZV)
+
+
 ### Day 4: 31 May 2017 
 
 **Today's Progress**: Ending May with alot of reading - in both Getting a Coding Job for Dummies and Coding for Dummies. Also Completed 3 hours of jQuery on freecodecamp. 
