@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 6: 2 June 2017 
+
+**Today's Progress**: Continued on with FCC's tribute page project. Signed up to Udemy's WebDev Bootcamp, downloading course online so can do on the commute!
+
+**Thoughts:** Getting frustrated that I still don't know exactly how things work or how a page is laid out ready to code. Think I might want to recap on the HTML/Bootstrap pages to see if I can gain some more insight. Thinking that if I can get more personal study done, that I won't need to bootcamp in Vancouver so I'll need to work hard over the next 100 days!
+
+**Link to work:** Nelson Mandela Tribute Page [CodePen] (https://codepen.io/anaumann/pen/eROyZV)
+
+
 ### Day 5: 1 June 2017 
 
 **Today's Progress**: Started my first FreeCodeCamp project - building a HTML tribute page for Nelson Mandela. A really good way to test what I have learnt - it's amazing how you can be trying to think of what you should and the answer comes back into your head. 
