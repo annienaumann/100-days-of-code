@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 7: 3 June 2017 
+
+**Today's Progress**: Different coding focus today - spent the day at Bletchley Park getting inspired by the work by the Codebreakers of WW2 esp Alan Turing. Watched the intro videos to the Udemy Bootcamp. 
+
+**Thoughts:** Looking forward to getting started on the Udemy course. Need to make sure I also focus on finishing the FCC projects. Feeling inspired and in awe of my Bletchley Park visit today, feeling renewed hopefulness I can up my logic and coding game.
+
+**Link to work:** N/A today
+
 ### Day 6: 2 June 2017 
 
 **Today's Progress**: Continued on with FCC's tribute page project. Signed up to Udemy's WebDev Bootcamp, downloading course online so can do on the commute!
