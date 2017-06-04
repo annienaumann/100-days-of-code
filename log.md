@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 8: 4 June 2017 
+
+**Today's Progress**: Finally finished the Tribute Page for Nelson Mandela in Codepen for FCC. I did look at the example code as I got really stuck so I think I need to do a little course in Bootstrap to fully understand what it is and what it does. Managed to work out (after much researching) why my hyperlink to Wikipedia wasnt working - I was missing an equals sign!! Something so small caused the problem! Also started HTML/CSS on Udemy course. 
+
+**Thoughts:** Definitely frustrating but feels so good when you get the problem sorted. Doing this every day definitely helps retain a little bit of knowledge and start to recognise where the problems are. 
+
+**Link to work:** Finished Tribute Page [Codepen] (https://codepen.io/anaumann/pen/eROyZV)
+
+### Day 7: 3 June 2017 
+
+**Today's Progress**: Different coding focus today - spent the day at Bletchley Park getting inspired by the work by the Codebreakers of WW2 esp Alan Turing. Watched the intro videos to the Udemy Bootcamp. 
+
+**Thoughts:** Looking forward to getting started on the Udemy course. Need to make sure I also focus on finishing the FCC projects. Feeling inspired and in awe of my Bletchley Park visit today, feeling renewed hopefulness I can up my logic and coding game.
+
+**Link to work:** N/A today
+
+
 ### Day 7: 3 June 2017 
 
 **Today's Progress**: Different coding focus today - spent the day at Bletchley Park getting inspired by the work by the Codebreakers of WW2 esp Alan Turing. Watched the intro videos to the Udemy Bootcamp. 
@@ -59,25 +76,3 @@
 **Thoughts:** I didnt feel motivated today however I perservered and really enjoyed the coding practice today. Learning to build the Catphotoap was very cool to see it done in real time. 
 
 **Link to work:** Last challenge I completed [FreeCodeCamp](https://www.freecodecamp.com/challenges/use-rgb-to-mix-colors)
-
-
-
-<!--### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-<!-- **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-<!--**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-<!--**Link(s) to work**: [Calculator App](http://www.example.com) 
-
-
-<!--### Day 1: June 27, Monday
-
-<!--**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-<!--**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-<!--**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence 
