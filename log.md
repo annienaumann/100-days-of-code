@@ -6,7 +6,7 @@
 
 **Thoughts:** Definitely frustrating but feels so good when you get the problem sorted. Doing this every day definitely helps retain a little bit of knowledge and start to recognise where the problems are. 
 
-**Link to work:** Finished Tribute Page [Codepen] (https://codepen.io/anaumann/pen/eROyZV)
+**Link to work:** Finished Tribute Page [Codepen](https://codepen.io/anaumann/pen/eROyZV)
 
 ### Day 7: 3 June 2017 
 
@@ -31,7 +31,7 @@
 
 **Thoughts:** Getting frustrated that I still don't know exactly how things work or how a page is laid out ready to code. Think I might want to recap on the HTML/Bootstrap pages to see if I can gain some more insight. Thinking that if I can get more personal study done, that I won't need to bootcamp in Vancouver so I'll need to work hard over the next 100 days!
 
-**Link to work:** Nelson Mandela Tribute Page [CodePen] (https://codepen.io/anaumann/pen/eROyZV)
+**Link to work:** Nelson Mandela Tribute Page [CodePen](https://codepen.io/anaumann/pen/eROyZV)
 
 
 ### Day 5: 1 June 2017 
@@ -40,7 +40,7 @@
 
 **Thoughts:** Probably want to go back and look at Bootstrap again to see what I need to be doing to make the webpage seem how it should. But its all about trial and error and I'm loving it!
 
-**Link to work:** Nelson Mandela Tribute Page [CodePen] (https://codepen.io/anaumann/pen/eROyZV)
+**Link to work:** Nelson Mandela Tribute Page [CodePen](https://codepen.io/anaumann/pen/eROyZV)
 
 
 ### Day 4: 31 May 2017 
@@ -49,7 +49,7 @@
 
 **Thoughts:** Started looking at and visualising remote working I would hope to be doing one day as a full qualified coder. Getting really motivated for this next chapter in my life.
 
-**Link to work:** Start of jQuery module: [Freecodecamp] (https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work)
+**Link to work:** Start of jQuery module: [Freecodecamp](https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work)
 
 
 ### Day 3: 30 May 2017 
