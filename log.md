@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 9: 5 June 2017 
+
+**Today's Progress**: Started on the intro to HTML on the Udemy WebDev Bootcamp course to regrasp the HTML basics. Listened to CodeNewbie podcast on Paola Mata's journey in going from Admin to WebDev job at Buzzfeed and felt inspired that I could acheive the same. 
+
+**Thoughts:** Good to know that using the bold tag is no longer relevant (using 'strong' is where its at!). And also MDN - a great resource for web dev!
+
+**Link to work:** N/A
+
+
 ### Day 8: 4 June 2017 
 
 **Today's Progress**: Finally finished the Tribute Page for Nelson Mandela in Codepen for FCC. I did look at the example code as I got really stuck so I think I need to do a little course in Bootstrap to fully understand what it is and what it does. Managed to work out (after much researching) why my hyperlink to Wikipedia wasnt working - I was missing an equals sign!! Something so small caused the problem! Also started HTML/CSS on Udemy course. 
