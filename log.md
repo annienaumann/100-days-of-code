@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 10: 6 June 2017 
+
+**Today's Progress**: Finished the introductory HTML course on Udemy course. Learnt some new shortcuts (cmd & / for easy commenting, and lorem + 'tab' key for lorem ipsum text. Love these little things that make life a littl easier. 
+
+**Thoughts:** Tired, but still perservering - its been 10 days, and I'm loving it!
+
+**Link to work:** N/A
+
 ### Day 9: 5 June 2017 
 
 **Today's Progress**: Started on the intro to HTML on the Udemy WebDev Bootcamp course to regrasp the HTML basics. Listened to CodeNewbie podcast on Paola Mata's journey in going from Admin to WebDev job at Buzzfeed and felt inspired that I could acheive the same. 
