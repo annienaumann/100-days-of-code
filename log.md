@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 11: 7 June 2017 
+
+**Today's Progress**: Learnt about tables in HTML - made a pokemon table with pics and links without looking at a cheatsheet. 
+
+**Thoughts:** I'm getting there - things are retaining in my brain!
+
+**Link to work:** (On sublime)
+
 ### Day 10: 6 June 2017 
 
 **Today's Progress**: Finished the introductory HTML course on Udemy course. Learnt some new shortcuts (cmd & / for easy commenting, and lorem + 'tab' key for lorem ipsum text. Love these little things that make life a littl easier. 
