@@ -6,7 +6,7 @@
 
 **Thoughts:** The hardest part is remembering how to make labels and inputs link together - but I think in time and practice this will improve. My solution was not 100% the same as Colt's - but the majority of the work was correct. 
 
-**Link to work:** (On sublime)
+**Link to work:** [Codepen](https://codepen.io/anaumann/pen/owbQrx)
 
 
 ### Day 11: 7 June 2017 
