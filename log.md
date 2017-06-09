@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Days 12 & 13: 7 June 2017 
+### Days 12 & 13: 8 & 9 June 2017 
 
 **Today's Progress**:  Spent on the Udemy WebDev course in Intermediate HTML. Learnt how to put together a registration form consisting of Forms, inputs, validations and dropdown/radio buttons. 
 
