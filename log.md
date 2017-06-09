@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Days 12 & 13: 7 June 2017 
+
+**Today's Progress**:  Spent on the Udemy WebDev course in Intermediate HTML. Learnt how to put together a registration form consisting of Forms, inputs, validations and dropdown/radio buttons. 
+
+**Thoughts:** The hardest part is remembering how to make labels and inputs link together - but I think in time and practice this will improve. My solution was not 100% the same as Colt's - but the majority of the work was correct. 
+
+**Link to work:** (On sublime)
+
+
 ### Day 11: 7 June 2017 
 
 **Today's Progress**: Learnt about tables in HTML - made a pokemon table with pics and links without looking at a cheatsheet. 
