@@ -1,5 +1,37 @@
 # 100 Days Of Code - Log
 
+### Days 14 & 15: 10 & 11 June 2017 
+
+**Today's Progress**:  Kept working on Udemy WebDev course focusing on Intro to CSS. Lots learnt and retained, including:
+
+*Colours* - Hexadecimal: eg #FFF800
+            RGB: eg rgb(0,255,0) - red, green, blue channells - range is between 0-255)
+            RGBA: eg rgba(0,255,0, .6) - same as above but with 'Alpha' - which is transparancy, ranged 0.0-1.0
+            
+*Borders* - you need to have width, color and style properties or they won't show (or you can put this under the one line (border).
+
+*Strikethrough* - to striketrhoug huse the property 'text-decoration'
+
+3 main selectors are element (p, h1, body), id (#special) - can't be used more than once, and class (.hello) - can be used more than once.
+
+Others:
+
+*Star Selector* - will apply to all elements
+
+*descendent selector* - li a (2 or more selectors, chained together, descentants of a parent element)
+
+*adjacent* - h4 + ul
+
+*attribute selector* - a[href etc..] or input
+
+*nth-of-type selector* - ul:nth-of-type(3) - only the 3rd of ul changes
+
+Also learnt about Specificity, what CSS does in order to determine the most important selector.
+
+**Thoughts:** Mind is blown, I've learnt so much and it is all making sense. The twitter community is also great as many people are in the same boat. 
+
+**Link to work:** in Sublime
+
 ### Days 12 & 13: 8 & 9 June 2017 
 
 **Today's Progress**:  Spent on the Udemy WebDev course in Intermediate HTML. Learnt how to put together a registration form consisting of Forms, inputs, validations and dropdown/radio buttons. 
