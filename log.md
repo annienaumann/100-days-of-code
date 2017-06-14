@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+
+### Day 16, 17, 18: 12-14 June 2017 
+
+**Today's Progress**: Upped the ante on learning code - did more hours at work as PA role has been taken over. Worked on Intermediate CSS in Udemy, made Tic Tac Toe Board, however code was too long, and the solution showed an easier way of designing the tic tac toe table. 
+
+**Thoughts:** Main takeaway from this is that I need to logically understand how to make things happen, using the simplest form possible. It seems I can come up with the solution, but it's not the most efficient way of doing stuff. 
+
+**Link to work:** [Codepen] (https://codepen.io/anaumann/pen/jwMGPX)
+
 ### Days 14 & 15: 10 & 11 June 2017 
 
 **Today's Progress**:  Kept working on Udemy WebDev course focusing on Intro to CSS. Lots learnt and retained, including:
