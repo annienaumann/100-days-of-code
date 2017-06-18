@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 19: 18 June 2017 
+
+**Today's Progress**: Missed a few days due to my leaving party, and then travelling to Vancouver (and subsequent lack of downloaded material to code on the plane), but back at it on the WebDev Bootcamp - this time learning Bootstrap, which I have dabbled in already for FreeCodeCamp - but really excited to intensively learn what it actually can do to make a beautiful, responsive, website.
+
+**Thoughts:** Interested to really delve into what Bootstrap can do and also get back into coding every day which has been slacking in the last few days!
+
+**Link to work:** N/A
 
 ### Day 16, 17, 18: 12-14 June 2017 
 
